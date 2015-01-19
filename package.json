@@ -1,6 +1,6 @@
 {
   "name": "shelloid-consolidate",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Shelloid's customized clone of consolidate library",
   "keywords": [
     "template",
